@@ -7,7 +7,6 @@ export default class ContentBlock extends React.Component {
     render() {
         return (
             <section id={_.get(this.props, 'section.section_id')} className="block">
-              <h2 className="block-title underline">{_.get(this.props, 'section.title')}</h2>
               {_.get(this.props, 'section.image') && 
               <div className="block-thumbnail">
                 <img src={safePrefix(_.get(this.props, 'section.image'))} alt={_.get(this.props, 'section.title')} />

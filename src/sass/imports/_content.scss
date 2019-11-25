@@ -198,7 +198,7 @@
 
 /* Hero section */
 .hero {
-  margin-bottom: 2.5em;
+  margin-bottom: 1.0em;
 }
 
 .hero-title {
@@ -207,9 +207,10 @@
 }
 
 .hero-text {
-  font-size: 1.33333rem;
-  line-height: 1.5;
+  font-size: 1em;
+  line-height: 1;
   margin: 0;
+  text-align: center;
 }
 
 /* Content blocks */
