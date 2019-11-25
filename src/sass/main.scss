@@ -6,15 +6,15 @@ $font: (
 
 // Palette.
 $palette: (
-  primary:       #555e69,
+  primary:       #272932,
   secondary:     darken(#555e69, 15%),
   meta:          lighten(#555e69, 25%),
   border:        lighten(#555e69, 55%),
   border-alt:    lighten(#555e69, 25%),
-  accent:        #1de2bc,
-  accent-blue:   #10bcf9,
-  accent-violet: #9371e6,
-  accent-orange: #fc6e51
+  accent:        #4D7EA8,
+  accent-blue:   #4D7EA8,
+  accent-violet: #B6C2D9,
+  accent-orange: #828489
 );
 
 @import "imports/functions";

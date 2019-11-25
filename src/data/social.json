@@ -5,6 +5,11 @@
             "title": "Twitter",
             "icon": "fa-twitter",
             "url": "https://twitter.com/jackcmeyer"
+        }, {
+          "type": "LinkedIn",
+          "title": "LinkedIn",
+          "icon": "fa-linkedin-in",
+          "url": "https://linkedin.com/in/jackcmeyer"
         },
         {
             "type": "github",
